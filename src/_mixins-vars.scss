@@ -1,0 +1,21 @@
+// Required parts of Bootstrap
+@import "~bootstrap/scss/functions";
+//@import "~bootstrap/scss/variables";
+//@import "~bootstrap/scss/mixins";
+
+
+//breakpoints
+$grid-breakpoints: (
+        xs: 0,
+        sm: 768px,
+        md: 970px,
+        lg: 1240px
+);
+
+//container width
+$container-max-widths: (
+        sm: 768px,
+        md: 970px,
+        lg: 1240px
+);
+
